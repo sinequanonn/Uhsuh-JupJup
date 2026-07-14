@@ -1,0 +1,10 @@
+# Env files (local only; deploy via CI/GitHub secrets)
+.env
+.env*.local
+
+# Firebase service account keys (never commit)
+*firebase-adminsdk*.json
+serviceAccountKey*.json
+
+.claude
+CLAUDE.md
