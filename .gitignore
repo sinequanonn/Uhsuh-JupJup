@@ -10,4 +10,17 @@ serviceAccountKey*.json
 backend/monitoring/prometheus/gc_token
 
 .claude
+.codex
+.agents
 CLAUDE.md
+AGENTS.md
+
+# 부하테스트
+backend/loadtest/
+backend/src/loadtest/
+
+# 로컬 전용 Gradle 설정
+**/build.local.gradle
+
+# IDE
+.idea/
