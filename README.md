@@ -28,7 +28,9 @@
 <br/>
 
 ## 아키텍처
-- 준비중
+
+<img width="579" height="489" alt="image" src="https://github.com/user-attachments/assets/89af8cae-c791-4453-a07e-35f715fe72a7" />
+
 
 <br/>
 
